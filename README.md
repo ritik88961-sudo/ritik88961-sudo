@@ -1,20 +1,19 @@
 ## Hi there 👋
-
 # About Me 👋
 
-Hello! I'm **Ritik Kumar**, a passionate software developer and educator with a focus on building efficient applications and imparting knowledge to aspiring developers. I am currently pursuing my BCA from Amrita Vishwa Vidyapeetham University and have a diverse skill set in programming, web development, and data analysis.
+Hello! I'm **Ritik Kumar**, an aspiring **Software Development Engineer** currently pursuing my BCA from Amrita Vishwa Vidyapeetham University. While my goal is to transition fully into the software development field, I am also a dedicated teacher. Teaching is not just my profession but also my hobby; I enjoy sharing knowledge and inspiring others to explore the world of technology.
 
 ## Experience 💼
 
 ### Computer Science Teacher
 **Mittal Institute of Computer Education**, Delhi  
 *April 2022 - August 2024*  
-- Instructed students in various computer science topics, emphasizing practical applications of programming and software development principles.
+- Taught computer science subjects, fostering a deep understanding of programming concepts and software development principles among students.
 
 ### Software Development and Business Analysis Instructor
 **Maa Shanti Skills Institute**, Delhi  
 *August 2024 - Present*  
-- Teach software development and business analysis, equipping students with the skills to thrive in the tech industry.
+- Instructing future developers in software development and business analysis, while continuously enhancing my own skills in the field.
 
 ## Skills 🛠️
 
